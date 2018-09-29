@@ -1,14 +1,11 @@
 # Site Settings
-title:               "Karaoke"
-tagline:             "site tagline"
+title:               "Les Françaises Karaoke"
+tagline:             "Les Françaises Karaoke"
 description:
 baseurl:            #""
-url:                #"https://karaoke.les-francaises.paris"
+url:                #"https://karaoke.lesfrancaises.paris"
 #github:
 #  url:               "0.0.0.0"
-author:
-  name:              "Les Françaises"
-  email:             "samygejz@gmail.com"
 navigation:
 - title: About
   url: /about

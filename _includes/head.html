@@ -1,0 +1,24 @@
+<head>
+
+  <title>
+    {% if page.title == "Home" %}
+      {{ site.title }} | {{ site.tagline }}
+    {% else %}
+      {{ page.title }} | {{ site.title }}
+    {% endif %}
+  </title>
+
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <link rel="stylesheet" href="{{ site.github.url }}/css/animate.css">
+  <link rel="stylesheet" href="{{ site.github.url }}/css/font-awesome.min.css">
+  <link rel="stylesheet" href="{{ site.github.url }}/css/normalize.css">
+  <link rel="stylesheet" href="{{ site.github.url }}/css/skeleton.css">
+
+  <script ype="text/javascript" async
+    src="https://use.fontawesome.com/8cce17624f.js">
+  </script>
+
+  {% include google_analytics.html %}
+
+</head>
