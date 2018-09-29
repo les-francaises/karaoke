@@ -1,1 +1,24 @@
-theme: jekyll-theme-cayman
+# Site Settings
+title:               "Karaoke"
+tagline:             "site tagline"
+description:
+baseurl:            #""
+url:                #"https://karaoke.les-francaises.paris"
+#github:
+#  url:               "0.0.0.0"
+author:
+  name:              "Les Françaises"
+  email:             "samygejz@gmail.com"
+navigation:
+- title: About
+  url: /about
+- title: Blog
+  url: /blog
+paginate:            5
+disqus:              #"your-disqus"
+
+# Build settings
+markdown:            kramdown
+highlighter:         rouge
+permalink:           none
+plugins:             [jekyll-paginate]
