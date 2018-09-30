@@ -2,7 +2,7 @@
 layout: post
 title: Hello
 author: Lionel Richie
-language: "Français"
+language: "English"
 image:
   artist: lionel-richie.png
 ---

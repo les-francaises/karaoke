@@ -2,7 +2,7 @@
 layout: post
 title: True Color
 author: Cyndi Lauper
-language: "Français"
+language: "English"
 image:
   artist: cyndi-lauper.png
 ---

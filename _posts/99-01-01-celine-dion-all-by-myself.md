@@ -2,7 +2,7 @@
 layout: post
 title: All By Myself
 author: Celine Dion
-language: "Français"
+language: "English"
 image:
   artist: celine-dion.png
 ---

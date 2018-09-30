@@ -2,7 +2,7 @@
 layout: post
 title: Price Tag
 author: Jessie J
-language: "Français"
+language: "English"
 image:
   artist: jessie-j.png
 ---

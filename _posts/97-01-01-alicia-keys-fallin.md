@@ -2,7 +2,7 @@
 layout: post
 title: Fallin
 author: Alicia Keys
-language: "Français"
+language: "English"
 image:
   artist: alicia-keys.png
 ---

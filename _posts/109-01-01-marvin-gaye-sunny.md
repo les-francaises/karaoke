@@ -2,7 +2,7 @@
 layout: post
 title: Sunny
 author: Marvin Gaye
-language: "Français"
+language: "English"
 image:
   artist: marvin-gaye.png
 ---

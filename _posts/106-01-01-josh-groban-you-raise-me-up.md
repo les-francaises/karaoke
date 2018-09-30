@@ -2,7 +2,7 @@
 layout: post
 title: You Raise me up
 author: Josh Groban
-language: "Français"
+language: "English"
 image:
   artist: josh-groban.png
 ---

@@ -2,7 +2,7 @@
 layout: post
 title: Treasure
 author: Bruno Mars
-language: "Français"
+language: "English"
 image:
   artist: bruno-mars.png
 ---

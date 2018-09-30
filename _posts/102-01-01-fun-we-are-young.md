@@ -2,7 +2,7 @@
 layout: post
 title: We Are Young
 author: Fun
-language: "Français"
+language: "English"
 image:
   artist: fun.png
 ---

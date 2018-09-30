@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Fantasy 
+title: Fantasy
 author: Earth wind and fire
-language: "Français"
+language: "English"
 image:
   artist: earth-wind-and-fire.png
 ---

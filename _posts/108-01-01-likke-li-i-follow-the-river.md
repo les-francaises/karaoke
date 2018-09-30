@@ -2,7 +2,7 @@
 layout: post
 title: I follow the river
 author: Likke-Li
-language: "Français"
+language: "English"
 image:
   artist: likke-li.png
 ---

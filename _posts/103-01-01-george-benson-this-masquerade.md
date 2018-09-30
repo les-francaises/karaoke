@@ -2,7 +2,7 @@
 layout: post
 title: This Masquerade
 author: George Benson
-language: "Français"
+language: "English"
 image:
   artist: george-benson.png
 ---

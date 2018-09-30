@@ -2,7 +2,7 @@
 layout: post
 title: Ordinary people
 author: John Legend
-language: "Français"
+language: "English"
 image:
   artist: john-legend.png
 ---

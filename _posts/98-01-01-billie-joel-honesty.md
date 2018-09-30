@@ -2,7 +2,7 @@
 layout: post
 title: Honesty
 author: Billie Joel
-language: "Français"
+language: "English"
 image:
   artist: billie-joel.png
 ---

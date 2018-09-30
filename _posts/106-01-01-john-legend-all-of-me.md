@@ -2,7 +2,7 @@
 layout: post
 title: All Of Me
 author: John Legend
-language: "Français"
+language: "English"
 image:
   artist: john-legend.png
 ---

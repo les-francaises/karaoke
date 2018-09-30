@@ -2,7 +2,7 @@
 layout: post
 title: Trouble
 author: Coldplay
-language: "Français"
+language: "English"
 image:
   artist: coldplay.png
 ---

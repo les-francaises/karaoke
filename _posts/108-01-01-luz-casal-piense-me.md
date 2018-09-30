@@ -2,7 +2,7 @@
 layout: post
 title: Piense Me
 author: Luz Casal
-language: "Français"
+language: "Español"
 image:
   artist: luz-casal.png
 ---

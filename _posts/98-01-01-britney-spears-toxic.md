@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Toxic 
+title: Toxic
 author: Britney Spears
-language: "Français"
+language: "English"
 image:
   artist: britney-spears.png
 ---

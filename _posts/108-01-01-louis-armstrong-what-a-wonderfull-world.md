@@ -2,7 +2,7 @@
 layout: post
 title: What a Wonderfull World
 author: Louis Armstrong
-language: "Français"
+language: "English"
 image:
   artist: louis-armstrong.png
 ---

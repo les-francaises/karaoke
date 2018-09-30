@@ -2,7 +2,7 @@
 layout: post
 title: Halo
 author: Beyonce
-language: "Français"
+language: "English"
 image:
   artist: beyonce.png
 ---

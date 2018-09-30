@@ -2,7 +2,7 @@
 layout: post
 title: The Girl From Ipanema
 author: Franck Sinatra
-language: "Français"
+language: "English"
 image:
   artist: franck-sinatra.png
 ---

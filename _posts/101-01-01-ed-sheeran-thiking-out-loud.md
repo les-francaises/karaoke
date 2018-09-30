@@ -2,7 +2,7 @@
 layout: post
 title: Thiking Out Loud
 author: Ed Sheeran
-language: "Français"
+language: "English"
 image:
   artist: ed-sheeran.png
 ---

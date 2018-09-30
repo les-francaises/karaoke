@@ -2,7 +2,7 @@
 layout: post
 title: Read all About It
 author: Emeli Sande
-language: "Français"
+language: "English"
 image:
   artist: emeli-sande.png
 ---

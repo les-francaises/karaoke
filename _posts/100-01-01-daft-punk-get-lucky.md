@@ -2,7 +2,7 @@
 layout: post
 title: Get Lucky
 author: Daft Punk
-language: "Français"
+language: "English"
 image:
   artist: daft-punk.png
 ---

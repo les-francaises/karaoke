@@ -2,7 +2,7 @@
 layout: post
 title: All Night Long
 author: Lionel Richie
-language: "Français"
+language: "English"
 image:
   artist: lionel-richie.png
 ---

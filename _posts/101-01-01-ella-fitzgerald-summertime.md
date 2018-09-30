@@ -2,7 +2,7 @@
 layout: post
 title: Summertime
 author: Ella Fitzgerald
-language: "Français"
+language: "English"
 image:
   artist: ella-fitzgerald.png
 ---

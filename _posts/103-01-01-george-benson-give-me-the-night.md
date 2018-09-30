@@ -2,7 +2,7 @@
 layout: post
 title: Give me The Night
 author: George Benson
-language: "Français"
+language: "English"
 image:
   artist: george-benson.png
 ---

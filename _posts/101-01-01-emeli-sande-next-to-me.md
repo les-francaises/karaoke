@@ -2,7 +2,7 @@
 layout: post
 title: Next to me
 author: Emeli Sande
-language: "Français"
+language: "English"
 image:
   artist: emeli-sande.png
 ---

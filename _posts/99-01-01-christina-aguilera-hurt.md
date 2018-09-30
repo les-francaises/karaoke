@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Hurt 
+title: Hurt
 author: Christina Aguilera
-language: "Français"
+language: "English"
 image:
   artist: christina-aguilera.png
 ---

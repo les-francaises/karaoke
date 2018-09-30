@@ -2,7 +2,7 @@
 layout: post
 title: Baby come to me
 author: James ingram
-language: "Français"
+language: "English"
 image:
   artist: james-ingram.png
 ---

@@ -2,7 +2,7 @@
 layout: post
 title: Eternal Flame
 author: Bangles
-language: "Français"
+language: "English"
 image:
   artist: bangles.png
 ---

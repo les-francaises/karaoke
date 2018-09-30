@@ -2,7 +2,7 @@
 layout: post
 title: Im Yours
 author: Jason Mraz
-language: "Français"
+language: "English"
 image:
   artist: jason-mraz.png
 ---

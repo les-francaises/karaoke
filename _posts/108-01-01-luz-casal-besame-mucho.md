@@ -2,7 +2,7 @@
 layout: post
 title: Besame Mucho
 author: Luz Casal
-language: "Français"
+language: "Español"
 image:
   artist: luz-casal.png
 ---

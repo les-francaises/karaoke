@@ -2,7 +2,7 @@
 layout: post
 title: Demons
 author: Imagine Dragons
-language: "Français"
+language: "English"
 image:
   artist: imagine-dragons.png
 ---

@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Oops i did it again 
+title: Oops i did it again
 author: Britney Spears
-language: "Français"
+language: "English"
 image:
   artist: britney-spears.png
 ---

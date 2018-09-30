@@ -2,7 +2,7 @@
 layout: post
 title: Halleluya
 author: Leonard Cohen
-language: "Français"
+language: "English"
 image:
   artist: leonard-cohen.png
 ---

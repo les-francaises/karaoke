@@ -2,7 +2,7 @@
 layout: post
 title: At Last
 author: Etta James
-language: "Français"
+language: "English"
 image:
   artist: etta-james.png
 ---
