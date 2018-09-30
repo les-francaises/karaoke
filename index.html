@@ -8,7 +8,7 @@ title: Home
 <div class="row wow fadeIn" data-wow-delay="0.{{ forloop.index }}s">
 
   <div class="two columns">
-    <figure class="reyes" style="height:100px; width:100px; overflow:hidden; border-radius:50%; -moz-border-radius:50%; -o-border-radius:50% -webkit-border-radius:50%;">
+    <figure class="valencia wow fadeInLeft" data-wow-delay="0.{{ forloop.index }}s" style="height:100px; width:100px; overflow:hidden; border-radius:50%; -moz-border-radius:50%; -o-border-radius:50% -webkit-border-radius:50%;">
       {% if post.image.artist %}
       <img src="{{ site.github.url }}/images/artists/{{ post.image.artist }}" alt="{{ post.author }}">
       {% else %}
@@ -29,19 +29,3 @@ title: Home
 </div>
 
 {% endfor %}
-
-<!-- Pagination links -->
-<div class="pagination">
-  {% if paginator.next_page %}
-  <a class="pagination-button pagination-active" href="{{ site.github.url }}{{ paginator.next_page_path }}" class="next">Older</a>
-  {% else %}
-  <span class="pagination-button">Older</span>
-  {% endif %}
-
-  {% if paginator.previous_page %}
-  <a class="pagination-button pagination-active" href="{{ site.baseurl }}{{ paginator.previous_page_path }}">Newer</a>
-  {% else %}
-  <span class="pagination-button">Newer</span>
-  {% endif %}
-
-</div>
