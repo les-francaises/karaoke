@@ -1,8 +1,69 @@
 ---
 layout: post
-title: Sous Le vent 
+title: Sous Le vent
 author: Celine Dion / Garou
 language: "Français"
 image:
   artist: celine-dion-garou.png
 ---
+Et si tu crois que j'ai eu peur
+C'est faux
+Je donne des vacances à mon cœur
+Un peu de repos
+Et si tu crois que j'ai eu tort
+Attends
+Respire un peu le souffle d'or
+Qui me pousse en avant
+Et
+
+Fais comme si j'avais pris la mer
+J'ai sorti la grand'voile
+Et j'ai glissé sous le vent
+Fais comme si je quittais la terre
+J'ai trouvé mon étoile
+Je l'ai suivie un instant
+Sous le vent
+
+(Céline Dion :)
+Et si tu crois que c'est fini
+Jamais
+C'est juste une pause, un répit
+Après les dangers
+Et si tu crois que je t'oublie
+Écoute
+Ouvre ton corps aux vents de la nuit
+Ferme les yeux
+Et
+
+Fais comme si j'avais pris la mer
+J'ai sorti la grand'voile
+Et j'ai glissé sous le vent
+Fais comme si je quittais la terre
+J'ai trouvé mon étoile
+Je l'ai suivie un instant
+Sous le vent
+
+(Garou :)
+Et si tu crois que c'est fini
+Jamais
+C'est juste une pause, un répit
+Après les dangers
+
+(Garou & Céline :)
+Fais comme si j'avais pris la mer
+J'ai sorti la grand'voile
+Et j'ai glissé sous le vent
+Fais comme si je quittais la terre
+J'ai trouvé mon étoile
+Je l'ai suivie un instant
+
+Fais comme si j'avais pris la mer
+J'ai sorti la grand'voile
+Et j'ai glissé sous le vent
+Fais comme si je quittais la terre
+J'ai trouvé mon étoile
+Je l'ai suivie un instant
+
+Sous le vent
+Sous le vent
+Musixmatch.com
