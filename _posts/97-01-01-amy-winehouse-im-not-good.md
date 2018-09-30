@@ -2,7 +2,7 @@
 layout: post
 title: Im Not Good
 author: Amy Winehouse
-language: "Français"
+language: "English"
 image:
   artist: amy-winehouse.png
 ---

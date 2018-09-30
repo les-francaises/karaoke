@@ -2,7 +2,7 @@
 layout: post
 title: Just the Way You Are
 author: Bruno Mars
-language: "Français"
+language: "English"
 image:
   artist: bruno-mars.png
 ---

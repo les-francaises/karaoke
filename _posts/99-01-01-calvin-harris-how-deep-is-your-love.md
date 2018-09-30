@@ -2,7 +2,7 @@
 layout: post
 title: How deep is your Love
 author: Calvin Harris
-language: "Français"
+language: "English"
 image:
   artist: calvin-harris.png
 ---

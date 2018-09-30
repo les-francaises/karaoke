@@ -2,7 +2,7 @@
 layout: post
 title: Toxic
 author: Britney Spears
-language: "Français"
+language: "English"
 image:
   artist: britney-spears.png
 ---

@@ -2,7 +2,7 @@
 layout: post
 title: Rehab
 author: Amy Winehouse
-language: "Français"
+language: "English"
 image:
   artist: amy-winehouse.png
 ---

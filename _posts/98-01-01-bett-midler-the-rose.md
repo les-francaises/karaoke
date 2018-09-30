@@ -1,8 +1,8 @@
 ---
 layout: post
 title: The Rose
-author: Bette Midler
-language: "Français"
+author: Bett Midler
+language: "English"
 image:
   artist: bett-midler.png
 ---

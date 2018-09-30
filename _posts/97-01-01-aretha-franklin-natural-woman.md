@@ -2,7 +2,7 @@
 layout: post
 title: Natural Woman
 author: Aretha Franklin
-language: "Français"
+language: "English"
 image:
   artist: aretha-franklin.png
 ---

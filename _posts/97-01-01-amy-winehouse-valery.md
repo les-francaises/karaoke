@@ -2,7 +2,7 @@
 layout: post
 title: Valery
 author: Amy Winehouse
-language: "Français"
+language: "English"
 image:
   artist: amy-winehouse.png
 ---
