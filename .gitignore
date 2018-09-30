@@ -1,4 +1,5 @@
 .jekyll-metadata
+*.csv
 .DS_Store
 /.DS_Store
 /_site

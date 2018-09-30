@@ -1,26 +1,16 @@
 ---
 layout: default
 ---
+<title>{{ page.title }} chez les Françaises"></title>
 
 <h1>
   {{ page.title }}
 </h1>
 
-{% if page.image.feature %}
-  <img src="{{ site.github.url }}/images/{{ page.image.feature }}">
+{% if page.image.artist %}
+<figure class="hudson">
+  <img src="{{ site.github.url }}/images/artists/{{ page.image.artist }}.jpg">
+</figure>
 {% endif %}
 
 {{ content }}
-
-<span class="post-date">
-  Written on
-  {% assign d = page.date | date: "%-d"  %}
-  {{ page.date | date: "%B" }}
-  {% case d %}
-    {% when '1' or '21' or '31' %}{{ d }}st
-    {% when '2' or '22' %}{{ d }}nd
-    {% when '3' or '23' %}{{ d }}rd
-    {% else %}{{ d }}th{% endcase %},
-  {{ page.date | date: "%Y" }}
-  by {{ site.author.name }}
-</span>

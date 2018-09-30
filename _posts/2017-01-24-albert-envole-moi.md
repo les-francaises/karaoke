@@ -1,13 +1,10 @@
 ---
 layout: post
 title: "Envole-moi"
-categories: journal
+author: "Albert"
 tags: [documentation,sample]
 image:
-  feature: IMAGE.jpg
-  teaser: IMAGE-teaser.jpg
-  credit: Death to Stock Photo
-  creditlink: ""
+  artist: goldman.png
 ---
 
 Minuit se lève en haut des tours

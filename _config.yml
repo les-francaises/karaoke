@@ -11,7 +11,7 @@ navigation:
   url: /about
 - title: Blog
   url: /blog
-paginate:            5
+paginate:            900
 disqus:              #"your-disqus"
 
 # Build settings
