@@ -6,3 +6,4 @@ language: "English"
 image:
   artist: adele.png
 ---
+Someone so cool!!
