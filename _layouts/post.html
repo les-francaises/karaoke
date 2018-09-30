@@ -1,7 +1,6 @@
 ---
 layout: default
 ---
-<title>{{ page.title }} chez les Françaises"></title>
 
 <h1>
   {{ page.title }}
@@ -9,8 +8,8 @@ layout: default
 
 {% if page.image.artist %}
   <figure class="reyes" style="height:100px; width:100px; overflow:hidden; border-radius:50%; -moz-border-radius:50%; -o-border-radius:50% -webkit-border-radius:50%;">
-    {% if post.image.artist %}
-    <img src="{{ site.github.url }}/images/artists/{{ post.image.artist }}">
+    {% if page.image.artist %}
+    <img src="{{ site.github.url }}/images/artists/{{ page.image.artist }}">
     {% else %}
     <img src="{{ site.github.url }}/images/artists/wanted.png">
     {% endif %}
