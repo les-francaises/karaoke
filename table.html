@@ -1,0 +1,47 @@
+---
+layout: default
+title: Home
+---
+
+<table class="u-full-width sortable">
+  <thead>
+    <tr>
+      <th>Titre</th>
+      <th>Artiste</th>
+      <th>Langue</th>
+    </tr>
+  </thead>
+  <tbody>
+{% for post in site.posts %}
+    <tr>
+      <td><a href="{{ site.github.url }}{{ post.url }}">{{ post.title }}</a></td>
+      <td><a href="{{ site.github.url }}{{ post.url }}">{{ post.author | Upcase }}</a></td>
+      <td><a href="{{ site.github.url }}{{ post.url }}">{{ post.language }}</a></td>
+    </tr>
+    {% endfor %}
+  </tbody>
+</table>
+
+<div class="row">
+
+  <div class="two columns">
+    <figure class="reyes" style="height:100px; width:100px; overflow:hidden; border-radius:50%; -moz-border-radius:50%; -o-border-radius:50% -webkit-border-radius:50%;">
+      {% if post.image.artist %}
+      <img src="{{ site.github.url }}/images/artists/{{ post.image.artist }}">
+      {% else %}
+      <img src="{{ site.github.url }}/images/artists/wanted.png">
+      {% endif %}
+    </figure>
+  </div>
+
+  <div class="ten columns">
+    <h5>
+      <a href="{{ site.github.url }}{{ post.url }}">{{ post.author }} - {{ post.title }}</a>
+    </h5>
+    <p>
+      {{ post.content | strip_html | truncate: 50 }} <a href="{{ site.github.url }}{{ post.url }}">Découvrir davantage</a>
+      <span class="post-date" style="margin-top:3px"><i class="fa fa-user" aria-hidden="true"></i> {{ post.author }} </span>
+    </p>
+  </div>
+
+</div>

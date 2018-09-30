@@ -8,9 +8,13 @@ layout: default
 </h1>
 
 {% if page.image.artist %}
-<figure class="hudson">
-  <img src="{{ site.github.url }}/images/artists/{{ page.image.artist }}.jpg">
-</figure>
+  <figure class="reyes" style="height:100px; width:100px; overflow:hidden; border-radius:50%; -moz-border-radius:50%; -o-border-radius:50% -webkit-border-radius:50%;">
+    {% if post.image.artist %}
+    <img src="{{ site.github.url }}/images/artists/{{ post.image.artist }}">
+    {% else %}
+    <img src="{{ site.github.url }}/images/artists/wanted.png">
+    {% endif %}
+  </figure>
 {% endif %}
 
 {{ content }}

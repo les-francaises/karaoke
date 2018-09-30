@@ -1,3 +1,5 @@
+#!/usr/local/bin/python
+# -*- coding: utf-8 -*-
 import csv, unicodedata, re
 from slugify import slugify
 
@@ -54,6 +56,7 @@ with open(r'karaoke.csv') as csv_file:
         file.write("layout: post\r\n")
         file.write("title: "+title+"\r\n")
         file.write("author: "+artist+"\r\n")
+        file.write("language: \"Français\"\r\n")
         file.write("image:\r\n")
         file.write("  artist: "+artist_slug+".png\r\n")
         file.write("---")
