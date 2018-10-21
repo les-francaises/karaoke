@@ -8,11 +8,12 @@ title: Home
 <div class="row wow fadeIn" data-wow-delay="0.{{ forloop.index }}s">
 
   <div class="two columns">
-    <figure class="valencia wow fadeInLeft" data-wow-delay="0.{{ forloop.index }}s" style="height:100px; width:100px; overflow:hidden; border-radius:50%; -moz-border-radius:50%; -o-border-radius:50% -webkit-border-radius:50%;">
+    <figure class="valencia wow fadeInLeft artist-case" data-wow-delay="0.{{ forloop.index }}s" style="height:100px; width:100px; overflow:hidden; border-radius:50%; -moz-border-radius:50%; -o-border-radius:50% -webkit-border-radius:50%;">
+      <img class="artist-bg" src="{{ site.github.url }}/images/artist-bg.png" />
       {% if post.image.artist %}
-      <img src="{{ site.github.url }}/images/artists/{{ post.image.artist }}" alt="{{ post.author }}">
+        <img class="artist-picture" src="{{ site.github.url }}/images/artists/{{ post.image.artist }}" alt="{{ post.author }}" />
       {% else %}
-      <img src="{{ site.github.url }}/images/artists/wanted.png">
+        <img class="artist-picture" src="{{ site.github.url }}/images/artists/wanted.png" />
       {% endif %}
     </figure>
   </div>

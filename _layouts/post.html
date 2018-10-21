@@ -7,11 +7,12 @@ layout: default
 </h1>
 
 {% if page.image.artist %}
-  <figure class="reyes" style="height:100px; width:100px; overflow:hidden; border-radius:50%; -moz-border-radius:50%; -o-border-radius:50% -webkit-border-radius:50%;">
+  <figure class="valencia artist-case" style="height:100px; width:100px; overflow:hidden; border-radius:50%; -moz-border-radius:50%; -o-border-radius:50% -webkit-border-radius:50%;">
+    <img class="artist-bg" src="{{ site.github.url }}/images/artist-bg.png" />
     {% if page.image.artist %}
-    <img src="{{ site.github.url }}/images/artists/{{ page.image.artist }}">
+    <img class="artist-picture" src="{{ site.github.url }}/images/artists/{{ page.image.artist }}">
     {% else %}
-    <img src="{{ site.github.url }}/images/artists/wanted.png">
+    <img class="artist-picture" src="{{ site.github.url }}/images/artists/wanted.png">
     {% endif %}
   </figure>
 {% endif %}
