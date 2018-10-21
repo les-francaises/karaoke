@@ -2,7 +2,7 @@
 layout: post
 title: Quizas quizas quizas
 author: luz Casal
-language: "Français"
+language: "Español"
 image:
   artist: luz-casal.png
 ---

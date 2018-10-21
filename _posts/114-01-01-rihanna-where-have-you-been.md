@@ -2,7 +2,65 @@
 layout: post
 title: Where Have You Been
 author: Rihanna
-language: "Français"
+language: "English"
 image:
   artist: rihanna.png
 ---
+I've been everywhere, man
+Looking for someone
+Someone who can please me
+Love me all night long
+I've been everywhere, man
+Looking for you babe
+Looking for you babe
+Searching for you babe
+
+Where have you been?
+Cause I never see you out
+Are you hiding from me, yeah?
+Somewhere in the crowd
+
+Where have you been?
+All my life, all my life
+Where have you been, all my life?
+Where have you been, all my life?
+Where have you been, all my life?
+Where have you been, all my life?
+
+
+
+I've been everywhere, man
+Looking for someone
+Someone who can please me
+Love me all night long
+I've been everywhere, man
+Looking for you babe
+Looking for you babe
+Searching for you babe
+
+Where have you been?
+Cause I never see you out
+Are you hiding from me, yeah?
+Somewhere in the crowd
+
+Where have you been?
+All my life, all my life
+Where have you been, all my life?
+Where have you been, all my life?
+Where have you been, all my life?
+Where have you been, all my life?
+
+Where have you been, all my life?
+
+You can have all you want
+Any way, any day
+To show me where you are tonight
+
+I've been everywhere, man
+Looking for someone
+Someone who can please me
+Love me all night long
+I've been everywhere, man
+Looking for you babe
+Looking for you babe
+Searching for you babe

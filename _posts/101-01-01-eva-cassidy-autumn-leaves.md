@@ -2,7 +2,7 @@
 layout: post
 title: Autumn Leaves
 author: Eva Cassidy
-language: "Français"
+language: "English"
 image:
   artist: eva-cassidy.png
 ---

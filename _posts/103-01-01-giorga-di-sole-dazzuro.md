@@ -2,7 +2,7 @@
 layout: post
 title: Di Sole dAzzuro
 author: Giorga
-language: "Français"
+language: "Italiano"
 image:
   artist: giorga.png
 ---

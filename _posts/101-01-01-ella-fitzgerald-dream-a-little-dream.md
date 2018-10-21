@@ -2,7 +2,37 @@
 layout: post
 title: Dream A Little Dream
 author: Ella Fitzgerald
-language: "Français"
+language: "English"
 image:
   artist: ella-fitzgerald.png
 ---
+Stars shining bright above you
+Night breezes seem to whisper "I love you"
+Birds singing in a sycamore tree
+Dream a little dream of me
+
+Say nighty night and kiss me
+Just hold me tight and tell me you miss me
+While I'm alone and blue as can be
+Dream a little dream of me
+
+Stars fading but I linger on dear
+Still craving your kiss
+I'm longing to linger till dawn dear
+Just saying this
+
+Sweet dreams till sunbeams find you
+Sweet dreams that leave all worries behind you
+But in your dreams whatever they be
+Dream a little dream of me
+
+Stars fading but I linger on dear
+Still craving your kiss
+I'm longing to linger till dawn dear
+Just saying this
+
+Sweet dreams till sunbeams find you
+Sweet dreams that leave all worries far behind you
+And in your dreams
+Whatever they be
+Dream a little dream of me 

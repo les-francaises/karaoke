@@ -6,3 +6,47 @@ language: "Français"
 image:
   artist: pink-martini.png
 ---
+Ma chambre a la forme d'une cage
+Le soleil passe son bras par la fenêtre
+Les chasseurs à ma porte
+Comme les p'tits soldats
+Qui veulent me prendre
+
+Je ne veux pas travailler
+Je ne veux pas déjeuner
+Je veux seulement l'oublier
+Et puis je fume
+
+Déjà j'ai connu le parfum de l'amour
+Un million de roses n'embaumerait pas autant
+Maintenant une seule fleur dans mes entourages
+Me rend malade
+
+Je ne veux pas travailler
+Je ne veux pas déjeuner
+Je veux seulement l'oublier
+Et puis je fume
+
+
+
+Je ne suis pas fière de ça
+Vie qui veut me tuer
+C'est magnifique être sympathique
+Mais je ne le connais jamais
+
+Je ne veux pas travailler
+Non
+Je ne veux pas déjeuner
+Je veux seulement l'oublier
+Et puis je fume
+
+Je ne suis pas fière de ça
+Vie qui veut me tuer
+C'est magnifique être sympathique
+Mais je ne le connais jamais
+
+Je ne veux pas travailler
+Non
+Je ne veux pas déjeuner
+Je veux seulement l'oublier
+Et puis je fume

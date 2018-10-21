@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Sensualite
+title: Sensualité
 author: Axelle Red
 language: "Français"
 image:

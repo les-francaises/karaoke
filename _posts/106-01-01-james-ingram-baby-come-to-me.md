@@ -2,7 +2,97 @@
 layout: post
 title: Baby come to me
 author: James ingram
-language: "Français"
+language: "English"
 image:
   artist: james-ingram.png
 ---
+[Patti:]
+Thinkin' back in time
+When love was only in my mind
+I realize
+Ain't no second chance
+You've got to hold on to romance
+Don't let it slide
+There's a special kind of magic in the air
+When you find another heart that needs to share
+
+[Both:]
+Baby, come to me
+Let me put my arms around you
+This was meant to be
+And I'm oh so glad I found you
+Need you ev'ry day
+Gotta have your love around me
+Baby, always stay
+'Cause I can't go back to livin' without you
+
+
+
+[James:]
+Spendin' ev'ry dime
+To keep you talkin' on the line
+That's how it was
+And all those walks together
+Out in any kind of weather
+Just because
+There's a brand-new way
+Of looking at your life
+When you know that love
+Is standing by your side
+
+[Both:]
+Baby, come to me
+Let me put my arms around you
+This was meant to be
+And I'm oh so glad I found you
+Need you ev'ry day
+Gotta have your love around me
+Baby, always stay
+'Cause I can't go back to livin' without you
+
+[James:]
+The nights can be cold
+There's a chill to ev'ry evenin'
+When you're all alone
+
+[Patti:]
+Don't talk anymore
+'Cause you know that I'll be here
+To keep you warm
+(Oh, darling keep me warm)
+
+[Both:]
+Baby, come to me (come to me)
+Let me put my arms around you
+This was meant to be (my love)
+And I'm oh so, glad I found you
+(Oh, so glad I found you)
+Need you ev'ry day (ev'ry day)
+Gotta have your love around me
+(Gotta have you)
+Baby, always stay
+
+[Patti:]
+'Cause I can't go back to livin' without you
+
+[Both:]
+Come to me
+(Let me put my arms around you)
+Let me put my arms around you
+This was meant to be
+(Hey, I need you ev'ry day, baby)
+And I'm oh, so glad I found you
+Need you ev'ry day
+Gotta have your love around me
+(Gotta have you and I want you to stay)
+Baby, always stay
+
+[James:]
+'Cause I can't go back to livin' without you
+
+[Both:]
+Come to me (come to me)
+Let me put my arms around you
+(Love me, love me, baby)
+This was meant to be
+And I'm oh so glad I found you....

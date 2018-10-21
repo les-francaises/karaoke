@@ -6,3 +6,75 @@ language: "Français"
 image:
   artist: johnny-hallyday.png
 ---
+Tourner le temps à l'orage
+Revenir à l'état sauvage
+Forcer les portes, les barrages
+Sortir le loup de sa cage
+
+Sentir le vent qui se déchaîne
+Battre le sang dans nos veines
+Monter le son des guitares
+Et le bruit des motos qui démarrent
+
+Il suffira d'une étincelle,
+D'un rien, d'un geste
+Il suffira d'une étincelle,
+D'un mot d'amour
+Pour...
+
+Allumer le feu
+Allumer le feu
+Et faire danser les diables et les dieux
+Allumer le feu
+
+
+Allumer le feu
+Et voir grandir la flamme dans vos yeux
+Allumer le feu
+
+Laisser derrière toutes nos peines
+Nos haches de guerre, nos problèmes
+Se libérer de nos chaînes
+Lâcher le lion dans l'arène
+
+Je veux la foudre et l'éclair
+L'odeur de poudre, le tonnerre
+Je veux la fête et les rires
+Je veux la foule en délire
+
+Il suffira d'une étincelle
+D'un rien, d'un contact
+Il suffira d'une étincelle
+D'un peu de jour
+Pour...
+
+Allumer le feu
+Allumer le feu
+Et faire danser les diables et les dieux
+Allumer le feu
+Allumer le feu
+Et voir grandir la flamme dans vos yeux
+Allumer le feu
+
+Il suffira d'une étincelle
+D'un rien, d'un geste
+Il suffira d'une étincelle
+D'un mot d'amour pour
+Pour, pour, pour...
+
+Allumer le feu
+Allumer le feu
+Et faire danser les diables et les dieux
+Allumer le feu
+Allumer le feu
+Et voir grandir la flamme dans vos yeux
+Oh !Allumer le feu
+Allumer le feu
+Et faire danser les diables et les dieux
+Allumer le feu
+Allumer le feu
+Et voir grandir la flamme dans vos yeux
+Allumer le feu
+Allumer le feu
+Allumer le feu
+Allumer le feu...
